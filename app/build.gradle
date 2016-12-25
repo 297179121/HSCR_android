@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.0"
+
+    defaultConfig {
+        applicationId "com.hscr"
+        minSdkVersion 12
+        targetSdkVersion 22
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    //compile files('libs/json.jar')
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'gesoft.android:gphotopicker:0.0.2'
+    compile 'com.github.delight-im:Android-AdvancedWebView:v3.0.0'
+    compile 'com.android.support:appcompat-v7:25.0.1'
+}

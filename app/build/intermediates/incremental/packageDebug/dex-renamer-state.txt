@@ -1,0 +1,7 @@
+#Sun Dec 25 09:32:18 CST 2016
+base.0=D\:\\Project\\AndroidWorkSpace\\hversion\\HSCR_android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fd41fa1aad957db02446ab69036a594721919cf6
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Project\\AndroidWorkSpace\\hversion\\HSCR_android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_02292890985a4359bfbdfa0540c218147ffbf129\\classes.dex
+base.1=D\:\\Project\\AndroidWorkSpace\\hversion\\HSCR_android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_02292890985a4359bfbdfa0540c218147ffbf129
+file.0=D\:\\Project\\AndroidWorkSpace\\hversion\\HSCR_android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fd41fa1aad957db02446ab69036a594721919cf6\\classes.dex
